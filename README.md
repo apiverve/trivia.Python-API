@@ -67,13 +67,13 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "question": "According to the popular TV show, at what restaurant does Alice work?",
-    "answer": "Mels Diner",
+    "question": "What kind of person is described by the expression green around the gills?",
+    "answer": "Physically ill",
     "options": [
-      "A Dennys",
-      "B Burger King",
-      "C McDonalds",
-      "D Mels Diner"
+      "A Physically ill",
+      "B New at fishing",
+      "C Gardner novice",
+      "D Jealous over someone"
     ],
     "category": "general"
   },
@@ -103,7 +103,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
